@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icons/morseparser.ico</file>
+        <file>icons/swap.ico</file>
+        <file>images/morsetable.jpg</file>
+    </qresource>
+</RCC>
