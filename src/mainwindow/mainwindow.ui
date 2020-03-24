@@ -170,7 +170,6 @@
    </widget>
    <addaction name="menuExtra"/>
   </widget>
-  <widget class="QStatusBar" name="statusBar"/>
   <action name="actionAbout_developer">
    <property name="text">
     <string>About developer</string>
